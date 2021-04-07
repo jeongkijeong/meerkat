@@ -3,7 +3,7 @@ package com.mlog.meerkat.tcp.client;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.mlog.meerkat.tcp.client.handler.MeerKat;
+import com.mlog.meerkat.tcp.handler.MeerKat;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.mlog.meerkat.common.Constant;
-import com.mlog.meerkat.tcp.client.handler.MeerKat;
+import com.mlog.meerkat.tcp.handler.MeerKat;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
